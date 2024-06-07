@@ -5,5 +5,5 @@
 
 ![planta] (https://media.tenor.com/bUOheQhAeBEAAAAj/rafsdesign-rafs.gif)
 
-Estou estudando na [Alura] ([alura.com.br](https://www.alurastart.com.br/)
+Estou estudando na [Alura] ([alura.com.br](https://www.alurastart.com.br/))
 
